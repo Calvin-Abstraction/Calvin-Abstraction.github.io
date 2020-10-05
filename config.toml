@@ -1,0 +1,95 @@
+baseurl = "/"
+languageCode = "en-us"
+theme = "hello-friend"
+paginate = 5
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "post"
+  # "light" or "dark"
+  defaultTheme = "light"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 3
+  # Enable to show reading time in minutes for posts
+  showReadingTime = false
+
+  homeSubtitle = "Calvin University Computer Science Club"
+
+[languages]
+  [languages.en]
+    title = "Abstraction"
+    subtitle = "A simple theme for Hugo"
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    writtenBy = "Written by"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    minuteReadingTime = "min read"
+    dateFormatSingle = "2006-01-02"
+    dateFormatList = "2006-01-02"
+
+    [languages.en.params.logo]
+      logoText = "cd ~"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        weight = 1
+        url = "/about"
+
+      [[languages.en.menu.main]]
+        identifier = "Posts"
+        name = "Blog"
+        weight = 2
+        url = "/post"
+
+      [[languages.en.menu.main]]
+        identifier = "Calendar"
+        name = "Calendar"
+        weight = 3
+        url = "/coming_soon"
+
+      [[languages.en.menu.main]]
+        identifier = "Leadership"
+        name = "Leadership"
+        weight = 4
+        url = "/leadership"
+
+      [[languages.en.menu.main]]
+        identifier = "Contact"
+        name = "Contact"
+        weight = 5
+        url = "/contact"
+
+      [[languages.en.menu.main]]
+        identifier = "Coke"
+        name = "Coke"
+        weight = 6
+        url = "/coming_soon"
+
+      [[languages.en.menu.main]]
+        identifier = "Wiki"
+        name = "Wiki"
+        weight = 7
+        url = "/coming_soon"
+
+       [[languages.en.menu.main]]
+        identifier = "Archive"
+        name = "Archive"
+        weight = 8
+        url = "/archive"
+
+      # [[languages.en.menu.main]]
+      #   identifier = "showcase"
+      #   name = "Showcase"
+      #   weight = 10
+      #   url = "/showcase"

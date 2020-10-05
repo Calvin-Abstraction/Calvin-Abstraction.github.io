@@ -1,0 +1,21 @@
++++
+title = "About"
+author = "Ian Park"
++++
+
+# New Abstraction 2019-2020
+
+Abstraction is Calvin University's Computer Science Club. Our current leadership has ambitious plans to rejuvinate Abstraction and increase student involvement.
+
+Not to dishonor previous Abstraction members and leaders, but Abstraction has received a past reputation of being a "gaming club". For some years, there has been an effort to change Abstraction's activity base. This year, we will dedicate our activities to truly empower computing students.
+
+As our name suggests, we want to provide the "abstraction" for the increased number of computer science students of Calvin University. We want to get rid of unnecessary obstacles of getting involved in computing activities and provide a straightforward experience to those who are passionate for computers even out of class. We will provide opportunities of leadership, project development, and community engagement.
+
+First, we have noticed that many students have a hard time getting started with personal projects, which are essential in constructing a resume. During our events, we will inform students basic stepping stones that are not always clear in classes due to the tight schedule. Afterwards, we will get students to initiate their own projects with our support and motivation (~~food~~).
+
+Next, we want to provide students with the opportunity to lead and coordinate their own events, workshops, and talks through Abstraction by providing their plans with advertisement, food, and location. By doing so, students will have the opportunity to lead their own events and engage students with their passions.
+
+We also want to provide opportunities to learn material that is not readily available to learn in Calvin's CS curriculum, especially for underclassmen students. This is especially so with our relationship with CIT InfoSec team. The CCDI is a very passionate team that wants to teach and equip students with computer security knowledge that is not readily taught to students in our curriculum. 
+This also expands to the idea of mentorships from local companies, few of which that actually showed interest after we reached out. In addition, we plan on working with other computing/tech student organizations to engage in even more awesome activities. Also, by providing field trip activities to nearby hackathons and conferences, we would like to show students the atmosphere of working computing professionals.
+
+Finally, our last plan this year is to create a active net of computer science students regardless of their school year.
