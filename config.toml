@@ -18,7 +18,6 @@ paginate = 5
 [languages]
   [languages.en]
     title = "Abstraction"
-    subtitle = "A simple theme for Hugo"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -46,46 +45,52 @@ paginate = 5
         weight = 1
         url = "/about"
 
-      [[languages.en.menu.main]]
-        identifier = "Posts"
-        name = "Blog"
-        weight = 2
-        url = "/post"
-
-      [[languages.en.menu.main]]
-        identifier = "Calendar"
-        name = "Calendar"
-        weight = 3
-        url = "/coming_soon"
+      #[[languages.en.menu.main]]
+      #  identifier = "Calendar"
+      #  name = "Calendar"
+      #  weight = 3
+      #  url = "/coming_soon"
 
       [[languages.en.menu.main]]
         identifier = "Leadership"
         name = "Leadership"
-        weight = 4
+        weight = 2
         url = "/leadership"
+
+      [[languages.en.menu.main]]
+        identifier = "Discord"
+        name = "Discord"
+        weight = 3
+        url = "https://discord.gg/naVqgD5"
+
+      [[languages.en.menu.main]]
+        identifier = "Posts"
+        name = "Blog"
+        weight = 5
+        url = "/post"
 
       [[languages.en.menu.main]]
         identifier = "Contact"
         name = "Contact"
-        weight = 5
+        weight = 6
         url = "/contact"
 
-      [[languages.en.menu.main]]
-        identifier = "Coke"
-        name = "Coke"
-        weight = 6
-        url = "/coming_soon"
+      #[[languages.en.menu.main]]
+      #  identifier = "Coke"
+      #  name = "Coke"
+      #  weight = 7
+      #  url = "/coming_soon"
 
-      [[languages.en.menu.main]]
-        identifier = "Wiki"
-        name = "Wiki"
-        weight = 7
-        url = "/coming_soon"
+      #[[languages.en.menu.main]]
+      #  identifier = "Wiki"
+      #  name = "Wiki"
+      #  weight = 8
+      #  url = "/coming_soon"
 
        [[languages.en.menu.main]]
         identifier = "Archive"
         name = "Archive"
-        weight = 8
+        weight = 9
         url = "/archive"
 
       # [[languages.en.menu.main]]

@@ -1,7 +1,5 @@
 +++
 title = "Calendar"
-date = "2019-09-07"
-author = "Ian Park"
 +++
 
 # Hi there

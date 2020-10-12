@@ -3,8 +3,8 @@ title = "Contact"
 +++
 
 ## Email
- - Go to Leadership page
+ - Contact David at dar23@students.calvin.edu
 
-## Chat with Discord/IRC
-
+## Chat with Discord
+ - Join our Discord server: https://discord.gg/naVqgD5
 
