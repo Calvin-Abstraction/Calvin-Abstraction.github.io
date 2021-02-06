@@ -47,6 +47,7 @@ jobs:
           host: ${{ secrets.HOST }}
           user: alb83
           key: ${{ secrets.PROXY_PRIV_KEY}}
+          args: "-tt -vvv"
         # shell: bash
         # with:
         #   env: 
