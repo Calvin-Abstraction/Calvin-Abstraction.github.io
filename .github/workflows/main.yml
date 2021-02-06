@@ -37,7 +37,7 @@ jobs:
         with:
           command: |
             cd abs-website/
-            ssh -i ~/.ssh/abs-website-deploy alb83@abs.calvin.edu "touch /var/www/html/t.txt && mv /var/www/html/* /home/alb83/before-update-wwww/"
+            ssh -i ~/.ssh/abs-website-deploy alb83@abs.calvin.edu "rm -r /var/www/html/*"
             scp -i ~/.ssh/abs-website-deploy * alb83@abs.calvin.edu:/var/www/html/
           host: ${{ secrets.PROXY_HOST }}
           user: alb83
