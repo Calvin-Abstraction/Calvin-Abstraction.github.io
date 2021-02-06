@@ -37,8 +37,12 @@ jobs:
         with:
           command: |
             cd abs-website/public
-            ssh -i ~/.ssh/abs-website-deploy alb83@abs.calvin.edu 'rm -vrf /var/www/html/*'
+            # ssh -i ~/.ssh/abs-website-deploy alb83@abs.calvin.edu 'rm -vrf /var/www/html/*'
+            mkdir html/
+            scp -ri ~/.ssh/abs-website-deploy html/ alb83@abs.calvin.edu:/var/www/
+            rm -r html/
             scp -ri ~/.ssh/abs-website-deploy * alb83@abs.calvin.edu:/var/www/html/
+
           host: ${{ secrets.PROXY_HOST }}
           user: alb83
           key: ${{ secrets.PROXY_PRIV_KEY}}
