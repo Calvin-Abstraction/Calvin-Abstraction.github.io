@@ -10,8 +10,8 @@ __Updated Spring of 2021__
 *We exist to serve the community of Calvin students interested in computer science.*
 
 We currently serve by:
-1.	providing [opportunities](/services/20-21/opportunities): specifically [talks](/services/20-21/opportunities#talks), [jobs/internships](/services/20-21/opportunities#jobs--internships) for the community to grow,
-2.	providing [resources](/services/20-21/resources): people, hardware, software, and
+1.	providing [opportunities](/year-2020-21/opportunities): specifically [talks](/year-2020-21/opportunities#talks), [jobs/internships](/year-2020-21/opportunities#jobs--internships) for the community to grow,
+2.	providing [resources](/year-2020-21/resources): people, hardware, software, and
 3.	providing and growing the C.S. community at Calvin.
 
 

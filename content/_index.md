@@ -3,7 +3,7 @@ type = "page"
 +++
 # Calvin Abstraction Club
 ## We are Calvin University's computer science club.
-Learn [about the club](/about), [what activities we currently offer](/services/20-21/opportunities), and [the resources we provide](/services/20-21/resources).
+Learn [about the club](/about), [what activities we currently offer](/year-2020-21/opportunities), and [the resources we provide](/year-2020-21/resources).
 
 ---
 
