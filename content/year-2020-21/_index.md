@@ -1,7 +1,7 @@
 +++
 title = "2020-21 Services"
 +++
-From the Abstraction Leadership,
+From the [Abstraction Leadership](/leadership),
 # Spring 2021 Update
 --
 

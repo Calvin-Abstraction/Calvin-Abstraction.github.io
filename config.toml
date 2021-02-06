@@ -58,7 +58,7 @@ paginate = 5
         url = "/blog"
 
       [[languages.en.menu.main]]
-        identifier = "Contact"
-        name = "Contact"
+        identifier = "Leadership"
+        name = "Leadership"
         weight = 4
-        url = "/contact"
+        url = "/leadership"

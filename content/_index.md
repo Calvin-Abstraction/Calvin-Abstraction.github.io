@@ -15,3 +15,10 @@ We communicate *events and announcements* on our Mailchimp mailing list.
 .
 
 For *casual conversation*, join [the Discord](https://discord.gg/naVqgD5) (https://discord.gg/naVqgD5) with 70+ students and alumni. 
+
+
+### Find Us
+
+* [GitHub](https://github.com/Calvin-Abstraction/)
+* [Facebook](https://www.facebook.com/AbstractionClub/)
+* Twitter - Not Yet
