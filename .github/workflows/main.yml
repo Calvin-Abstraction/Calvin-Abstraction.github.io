@@ -3,6 +3,7 @@ on: push
 jobs:
   deploy:
     runs-on: ubuntu-18.04
+    environment: test
     steps:
       - name: Git checkout
         uses: actions/checkout@v2
@@ -25,7 +26,7 @@ jobs:
         with:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
-          password: ${{ secrets.PASSWORD}}
+          password: ${{ secrets.PASSWORD }}
           proxy_host: ${{ secrets.PROXY_HOST }}
           proxy_username: ${{ secrets.PROXY_USERNAME }}
           proxy_key: ${{ secrets.PROXY_PRIV_KEY }}
