@@ -9,7 +9,7 @@ paginate = 5
   # "light" or "dark"
   defaultTheme = "light"
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 3
+  showMenuItems = 5
   # Enable to show reading time in minutes for posts
   showReadingTime = false
 
@@ -19,8 +19,8 @@ paginate = 5
   [languages.en]
     title = "Abstraction"
     keywords = ""
-    copyright = ""
-    menuMore = "Show more"
+    copyright = "The Calvin Abstraction Club is an official student organization of Calvin College serving Calvin students interested in computer science.<a href='http://eepurl.com/hpV8xz'>Mailing List</a>"
+    menuMore = "..."
     writtenBy = "Written by"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
@@ -31,12 +31,12 @@ paginate = 5
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "cd ~"
+    #  logoText = "Calvin Abstraction"
       logoHomeLink = "/"
     # or
     #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
+      path = "/img/abs-logo.svg"
+      alt = "Calvin Abstraction"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -45,56 +45,20 @@ paginate = 5
         weight = 1
         url = "/about"
 
-      #[[languages.en.menu.main]]
-      #  identifier = "Calendar"
-      #  name = "Calendar"
-      #  weight = 3
-      #  url = "/coming_soon"
+      # [[languages.en.menu.main]]
+      #   identifier = "Leadership"
+      #   name = "Leadership"
+      #   weight = 2
+      #   url = "/leadership"
 
-      [[languages.en.menu.main]]
-        identifier = "Leadership"
-        name = "Leadership"
-        weight = 2
-        url = "/leadership"
-
-      [[languages.en.menu.main]]
-        identifier = "Discord"
-        name = "Discord"
-        weight = 3
-        url = "https://discord.gg/naVqgD5"
-
-      [[languages.en.menu.main]]
-        identifier = "Posts"
+       [[languages.en.menu.main]]
+        identifier = "Archive"
         name = "Blog"
-        weight = 5
-        url = "/post"
+        weight = 3
+        url = "/blog"
 
       [[languages.en.menu.main]]
         identifier = "Contact"
         name = "Contact"
-        weight = 6
+        weight = 4
         url = "/contact"
-
-      #[[languages.en.menu.main]]
-      #  identifier = "Coke"
-      #  name = "Coke"
-      #  weight = 7
-      #  url = "/coming_soon"
-
-      #[[languages.en.menu.main]]
-      #  identifier = "Wiki"
-      #  name = "Wiki"
-      #  weight = 8
-      #  url = "/coming_soon"
-
-       [[languages.en.menu.main]]
-        identifier = "Archive"
-        name = "Archive"
-        weight = 9
-        url = "/archive"
-
-      # [[languages.en.menu.main]]
-      #   identifier = "showcase"
-      #   name = "Showcase"
-      #   weight = 10
-      #   url = "/showcase"
