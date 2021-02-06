@@ -44,7 +44,7 @@ jobs:
           command: |
             cd /tmp
             ls -a
-          host: ${{ secrets.HOST }}
+          host: ${{ secrets.PROXY_HOST }}
           user: alb83
           key: ${{ secrets.PROXY_PRIV_KEY}}
           args: "-tt -vvv"
