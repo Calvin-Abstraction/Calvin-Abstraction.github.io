@@ -17,7 +17,9 @@ We are planning to have around 4-6 talks in the spring. To stay informed about u
 * [ more to come! ]
 
 ## Jobs & Internships
-Nothing here for now. Likely this information will be on the email list
+If you're hiring in Grand Rapids, [contact us](/contact) to have your job listing posted for Calvin students.
+
+* Tekton https://www.tekton.com/front-end-ecommerce-designer (added 02-06-2021 by Martin)
 
 ## Resources
 To learn more about the resources (people, hardware, software, etc), go to [Abstraction 2020-21 resources list](../resources/).
