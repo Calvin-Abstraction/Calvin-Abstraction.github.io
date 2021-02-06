@@ -12,7 +12,8 @@ An index where you can learn about the resources for C.S. at Calvin. Whether har
 ## Physical Computers
 Please subscribe to the [Abstraction mailing list](http://eepurl.com/hpV8xz) (this is not the GNU Mailman abstraction-news list).
 
-## Network
+## Links
+https://missing.csail.mit.edu/
 
 ## Opportunities in C.S. @ Calvin
 To learn more about the opportunities (talks, jobs, etc), go to [Abstraction 2020-21 opportunities index](../opportunities/).
