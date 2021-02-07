@@ -14,3 +14,6 @@ Please feel free to [reach out](/contact) to Abstraction leadership if you would
 Lastly,
 
 Subscribe to the new [Abstraction emailing list](http://eepurl.com/hpV8xz)
+
+.
+{{< lastupdated >}}
