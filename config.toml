@@ -40,25 +40,31 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
+        identifier = "2020"
+        name = "Spring 2021"
+        weight = 1
+        url = "/year-2020-21/"
+
+      [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
-        weight = 1
+        weight = 2
         url = "/about"
 
        [[languages.en.menu.main]]
          identifier = "Projects"
          name = "Projects"
-         weight = 2
+         weight = 3
          url = "/projects"
 
        [[languages.en.menu.main]]
         identifier = "Archive"
         name = "Blog"
-        weight = 3
+        weight = 4
         url = "/blog"
 
       [[languages.en.menu.main]]
         identifier = "Leadership"
         name = "Leadership"
-        weight = 4
+        weight = 5
         url = "/leadership"
