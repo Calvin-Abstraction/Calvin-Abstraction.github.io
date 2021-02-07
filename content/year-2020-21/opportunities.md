@@ -23,3 +23,6 @@ If you're hiring in Grand Rapids, [contact us](/contact) to have your job listin
 
 ## Resources
 To learn more about the resources (people, hardware, software, etc), go to [Abstraction 2020-21 resources list](../resources/).
+
+.
+{{< lastupdated >}}
