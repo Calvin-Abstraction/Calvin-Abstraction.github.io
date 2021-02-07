@@ -19,6 +19,8 @@ For *casual conversation*, join [the Discord](https://discord.gg/naVqgD5) (https
 
 ### Find Us
 
-* [GitHub](https://github.com/Calvin-Abstraction/)
-* [Facebook](https://www.facebook.com/AbstractionClub/)
-* Twitter - Not Yet
+[GitHub](https://github.com/Calvin-Abstraction/)
+
+[Facebook](https://www.facebook.com/AbstractionClub/)
+
+Twitter - Not Yet

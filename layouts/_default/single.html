@@ -1,0 +1,16 @@
+{{ define "main" }}
+<main aria-role="main">
+  <div class="content">
+    <div class="post">
+      <!-- Learn about this template: https://gohugo.io/templates/lists/ -->
+      <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+      {{.Content}}
+    </div>
+  </div>
+  <div>
+    {{ range first 10 .Site.RegularPages }}
+        {{ .Render "summary"}}
+    {{ end }}
+  </div>
+</main>
+{{ end }}

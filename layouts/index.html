@@ -1,4 +1,3 @@
-
 {{ define "main" }}
 <main aria-role="main">
   <div class="homepage-content">
@@ -10,5 +9,6 @@
         {{ .Render "summary"}}
     {{ end }}
   </div>
+  <p style="color: grey">Current: {{ .GitInfo.AbbreviatedHash }}</p>
 </main>
 {{ end }}

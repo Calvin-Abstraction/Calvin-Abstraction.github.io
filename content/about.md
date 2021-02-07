@@ -3,7 +3,7 @@ title = "About"
 type = "page"
 +++
 __Updated Spring of 2021__
-
+{{< lastupdated >}}
 ---
 
 ## Our Mission
