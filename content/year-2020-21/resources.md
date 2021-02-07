@@ -22,3 +22,6 @@ As a Calvin student (or alumni), you may search for alumni connections at https:
 
 ## Opportunities in C.S. @ Calvin
 To learn more about the opportunities (talks, jobs, etc), go to [Abstraction 2020-21 opportunities index](../opportunities/).
+
+.
+{{< lastupdated >}}
