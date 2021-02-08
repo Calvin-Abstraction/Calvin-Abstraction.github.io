@@ -2,9 +2,6 @@
 title = "About"
 type = "page"
 +++
-{{< lastupdated >}}
----
-
 ## Our Mission
 *We exist to serve the community of Calvin students interested in computer science.*
 
@@ -16,3 +13,6 @@ We currently serve by:
 
 ## Joining Abstraction
 Welcome! Other than [subscribing to our emailing list](http://eepurl.com/hpV8xz), there are no formal membership procedures to join the Abstraction Club. If you are interested in computer science or computing and are a student at Calvin (or formerly at Calvin), you are free to join.
+
+
+{{< lastupdated >}}
