@@ -13,7 +13,7 @@ An index where you can learn about the resources for C.S. at Calvin. Whether har
 Please subscribe to the [Abstraction mailing list](http://eepurl.com/hpV8xz) (this is not the GNU Mailman abstraction-news list).
 
 ## Links
-Email us (abstraction @ calvin.edu) links.
+[Email us](/contact) links.
 * https://missing.csail.mit.edu/ The Missing Semester of Your CS Education
 * [GitHub Student Developer Pack](https://education.github.com/pack) Companies want your eyes! Lots of free stuff.
 
