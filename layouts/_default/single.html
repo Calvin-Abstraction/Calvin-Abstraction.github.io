@@ -1,12 +1,10 @@
 {{ define "main" }}
 <main aria-role="main">
-  <div class="content">
-    <div class="post">
-      <h2 id="post-title">{{ .Title }}</h2>
-      <!-- Learn about this template: https://gohugo.io/templates/single-page-templates/ -->
-      <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
-      {{.Content}}
-    </div>
+  <div class="post">
+    <h1 id="post-title">{{ .Title }}</h1>
+    <!-- Learn about this template: https://gohugo.io/templates/single-page-templates/ -->
+    <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+    {{.Content}}
   </div>
   <div>
     {{ range first 10 .Site.RegularPages }}
