@@ -13,6 +13,7 @@ An index where you can learn about the resources for C.S. at Calvin. Whether har
 Please subscribe to the [Abstraction mailing list](http://eepurl.com/hpV8xz) (this is not the GNU Mailman abstraction-news list).
 
 ## Links
+Email us (abstraction @ calvin.edu) links.
 * https://missing.csail.mit.edu/ The Missing Semester of Your CS Education
 * [GitHub Student Developer Pack](https://education.github.com/pack) Companies want your eyes! Lots of free stuff.
 
@@ -22,7 +23,7 @@ As a Calvin student (or alumni), you may search for alumni connections at https:
 ## New Students
 Get to know Calvin computer science.
 * https://borg.calvin.edu/ Calvin's supercomputer
-* https://www.facebook.com/Calvin-College-Women-In-Computing-272851753234319/ Women in Computing
+* https://www.facebook.com/wiccalvinuniveristy/ Women in Computing
 * https://calvinhacks.com/ (link down), social: https://www.instagram.com/calvinhacks/ Calvin Hacks
   https://www.hackerearth.com/challenges/hackathon/calvinhacks
 * https://computing.calvin.edu/faculty-staff/ Hrm
