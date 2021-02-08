@@ -28,6 +28,7 @@ Get to know Calvin computer science.
   https://www.hackerearth.com/challenges/hackathon/calvinhacks
 * https://computing.calvin.edu/faculty-staff/ Hrm
 * https://cs.calvin.edu/courses/cs/ Your C.S. Education Index
+* https://www.ccel.org/info/structure Professor Plantinga's side hustle
 
 ## Opportunities in C.S. @ Calvin
 To learn more about the opportunities (talks, jobs, etc), go to [Abstraction 2020-21 opportunities index](../opportunities/).
