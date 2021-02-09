@@ -1,5 +1,5 @@
 # Calvin Abstraction Website
-A [Hugo](https://gohugo.io) implementation of the [Calvin Abstraction Website](https://abs.calvin.edu/).
+A [Hugo](https://gohugo.io) implementation of the [Calvin Abstraction Website](https://abs.calvin.edu/). https://abs.calvin.edu/ is a proxy to https://calvin-abstraction.github.io/.
 
 ## Getting Started: Updating Website Content
 If you plan to update the website content, it is not required to setup a development environment. Rather, you can directly edit the files ending in .md from within Github and benefit from the continuous deployment. 
