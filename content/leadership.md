@@ -17,4 +17,6 @@ type = "page"
 
 ## Legacy Leadership
 Previous Abstraction leadership
-* ~ give us some time ~
+* Jesse Kuntz
+  President and Vice President
+* { working on it }
