@@ -1,7 +1,7 @@
 +++
 type = "page"
 +++
-# Calvin Abstraction Club
+# Abstraction
 ## We are Calvin University's computer science club.
 Learn [about the club](/about), [what activities we currently offer](/year-2020-21/opportunities), and [the resources we provide](/year-2020-21/resources).
 
@@ -14,12 +14,14 @@ We communicate *events and announcements* on our Mailchimp mailing list.
 
 .
 
-For *casual conversation*, join [the Discord](https://discord.gg/naVqgD5) (https://discord.gg/naVqgD5) with 70+ students and alumni. 
+For discussion about tech, video games, and more, join our [Discord server](https://discord.gg/naVqgD5) with 70+ students and alumni. 
 
 
 ### Find Us
 
 [GitHub](https://github.com/Calvin-Abstraction/)
+
+[Instagram](https://www.instagram.com/calvinabstraction/)
 
 [Facebook](https://www.facebook.com/AbstractionClub/)
 
