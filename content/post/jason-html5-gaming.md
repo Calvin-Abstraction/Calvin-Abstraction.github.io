@@ -1,7 +1,10 @@
 ---
-title: "Abstraction Talk: HTML5 Games"
-draft: false
+title: "Talk"
+date: 2019-09-09T23:55:48-04:00
+draft: true
 ---
+
+
 # Writing a Platformer in HTML5 JavaScript by Jason Pruim
 ## Details
 [ to come ]
