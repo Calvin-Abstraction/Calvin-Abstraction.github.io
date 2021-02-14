@@ -11,4 +11,5 @@ Some Abstraction sponsored projects can be found at the [Abstraction GitHub](htt
 
 
 ## Student Projects
-No projects are listed yet.
+Ask [leadership](/leadership) to list your project.
+* [course-schedulizer](https://github.com/senior-knights/course-schedulizer) by Senior Knights ([view website](https://senior-knights.github.io/course-schedulizer/))
