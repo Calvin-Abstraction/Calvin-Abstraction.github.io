@@ -16,6 +16,7 @@ Please subscribe to the [Abstraction mailing list](http://eepurl.com/hpV8xz) (th
 [Email us](/contact) links.
 * https://missing.csail.mit.edu/ The Missing Semester of Your CS Education
 * [GitHub Student Developer Pack](https://education.github.com/pack) Companies want your eyes! Lots of free stuff.
+* https://dsc.community.dev/calvin-university/
 
 ## C.S. Alumni Network
 As a Calvin student (or alumni), you may search for alumni connections at https://connect.calvin.edu/directory (current students may need to reset their account password to login). Additionally, [previous abstraction leadership](/leadership#legacy-leadership) and the [Abstraction Facebook group](https://www.facebook.com/AbstractionClub/) may be of value.
