@@ -16,7 +16,7 @@ Before working on the website, you will need:
 A.
 1. Clone repo and ensure the theme installs
 ```
-git clone --recurse-submodules https://github.com/Calvin-Abstraction/abs-website
+git clone --recurse-submodules git@github.com:Calvin-Abstraction/Calvin-Abstraction.github.io.git
 ```
 If already cloned,
 ```

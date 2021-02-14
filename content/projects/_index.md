@@ -4,8 +4,10 @@ title = "Projects"
 # Projects Index
 
 ## Abstraction Projects
+Some Abstraction sponsored projects can be found at the [Abstraction GitHub](https://github.com/Calvin-Abstraction).
+
 * Pop Machine
-  Probalby not working: http://soda-pop.calvin.edu/cgi-bin/popmachine.py
+  Probably not working link: http://soda-pop.calvin.edu/cgi-bin/popmachine.py
 
 
 ## Student Projects
