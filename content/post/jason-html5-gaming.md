@@ -11,7 +11,7 @@ by Jason Pruim
 
 WHEN: February 20 at 3:00pm
 
-LOCATION: ONLINE at https://teams.microsoft.com/l/team/19%3a1a0644a74b5848b3b9ed538b4b9f8a91%40thread.tacv2/conversations?groupId=22ff6955-36d1-49b0-84fd-f3eaa8292170&tenantId=756349b9-0610-4b01-917b-2a4ac10df947
+LOCATION: ONLINE on Microsoft Teams at https://bit.ly/3ptVhGB
 
 ## Details
 [ to come ]
