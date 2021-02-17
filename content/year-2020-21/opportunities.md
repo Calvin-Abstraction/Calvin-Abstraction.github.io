@@ -13,7 +13,7 @@ An index where you can learn about the opportunities and activities offered by A
 ## Talks
 We are planning to have around 4-6 talks in the spring. To stay informed about upcoming talks, please subscribe to the [Abstraction mailing list](http://eepurl.com/hpV8xz) (this is not the GNU Mailman abstraction-news list).
 
-* Febuary 20, 2021 at 3:00pm - by Jason P. (a senior Calvin student) on [Learning HTML5 Gaming](/post/jason-html5-gaming/)
+* Febuary 20, 2021 at 3:00pm - by Jason P. (a senior Calvin student) on [Writing a Platformer in HTML5 and JavaScript](/post/jason-html5-gaming/)
 * [ more to come! ]
 
 ## Jobs & Internships
