@@ -3,7 +3,7 @@ A [Hugo](https://gohugo.io) implementation of the [Calvin Abstraction Website](h
 
 ## Getting Started: Updating Website Content
 If you plan to update the website content, it is not required to setup a development environment. Rather, you can directly edit the files ending in .md from within Github and benefit from the continuous deployment. 
-However, if you wish to create new posts or pages; or restructure the website, you'll need to setup a development environment.
+In addition, the GitHub interface allows you to [create new files](https://docs.github.com/en/github/managing-files-in-a-repository/creating-new-files) just ensure to suffix .md so Hugo knows it's markdown to parse.
 
 ## Getting Started: Setting up a Local Environment
 If you are interested in changing the theme or checking under the hood of the website, follow these instructions.
