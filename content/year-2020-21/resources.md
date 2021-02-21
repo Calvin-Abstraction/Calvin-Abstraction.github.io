@@ -27,7 +27,7 @@ As a Calvin student (or alumni), you may search for alumni connections at https:
 ## New Students
 Get to know Calvin computer science.
 * https://borg.calvin.edu/ Calvin's supercomputer
-* https://www.facebook.com/wiccalvinuniveristy/ Women in Computing
+* [Website](https://wic.calvin.edu/) [Facebook](https://www.facebook.com/wiccalvinuniveristy/) Women in Computing
 * https://calvinhacks.com/ (link down), social: https://www.instagram.com/calvinhacks/ Calvin Hacks
   https://www.hackerearth.com/challenges/hackathon/calvinhacks
 * https://computing.calvin.edu/faculty-staff/ Hrm
