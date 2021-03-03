@@ -16,6 +16,8 @@ We communicate *events and announcements* on our Mailchimp mailing list.
 
 For discussion about tech, video games, and more, join our [Discord server](https://discord.gg/naVqgD5) with 70+ students and alumni. 
 
+We run a Minecraft server! The IP address is gallifrey.calvin.edu.
+
 
 ### Find Us
 
@@ -25,4 +27,3 @@ For discussion about tech, video games, and more, join our [Discord server](http
 
 [Facebook](https://www.facebook.com/AbstractionClub/)
 
-Twitter - Not Yet
