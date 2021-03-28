@@ -19,4 +19,8 @@ type = "page"
 Previous Abstraction leadership
 * Jesse Kuntz
   President and Vice President
+* Nathan Phillip Brink
+  Secretary
+* Mark Wissink
+  Treasury
 * { working on it }
