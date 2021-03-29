@@ -10,9 +10,10 @@ Learn [about the club](/about), [what activities we currently offer](/year-2020-
 ### Stay Informed
 We communicate *events and announcements* on our Mailchimp mailing list.
 
-[Subscribe to our emailing list here](http://eepurl.com/hpV8xz).
+[Subscribe to our mailing list here](http://eepurl.com/hpV8xz).
 
-.
+[Subscribe to our job postings mailing list here](http://list.calvin.edu/mailman/listinfo/abstraction-jobs)
+
 
 For discussion about tech, video games, and more, join our [Discord server](https://discord.gg/naVqgD5) with 70+ students and alumni. 
 
