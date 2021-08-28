@@ -3,6 +3,11 @@ languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
 enableGitInfo = true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "post"
@@ -19,7 +24,7 @@ enableGitInfo = true
   [languages.en]
     title = "Abstraction"
     keywords = ""
-    copyright = "Abstraction is a computer science club at Calvin University that serves students interested in computer science.<a href='http://eepurl.com/hpV8xz'>Mailing List</a>"
+    copyright = "Abstraction is a student organization at Calvin University centered around  computer science.<a href='http://eepurl.com/hpV8xz'>Mailing List</a>"
     menuMore = "..."
     writtenBy = "Written by"
     readMore = "Read more"
@@ -39,11 +44,6 @@ enableGitInfo = true
       alt = "Calvin Abstraction"
 
     [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "2020"
-        name = "Spring 2021"
-        weight = 1
-        url = "/year-2020-21/"
 
       [[languages.en.menu.main]]
         identifier = "about"

@@ -2,25 +2,13 @@
 title = "Leadership"
 type = "page"
 +++
+---
 
-## 2020-21 Leadership
-[Contact Us Here](/contact)
+# We're recruiting!
+Are you interested in helping build a strong community of students at Calvin who are passionate about computing and technology?
+Email us at abstraction@calvin.edu and we'll do our best to get back to you as soon as possible!
 
+
+## Current 2021-22 Leadership
 * David Reidsma (President)
-  [GitHub](https://github.com/hangrydave)
-* Aaron Brink (VP)
-  [GitHub](https://github.com/aaronlbrink)
 * Nathan Strain (VP)
-* Jason Prium (Admin)
-  [GitHub](https://github.com/jPruim)
-
-
-## Legacy Leadership
-Previous Abstraction leadership
-* Jesse Kuntz
-  President and Vice President
-* Nathan Phillip Brink
-  Secretary
-* Mark Wissink
-  Treasury
-* { working on it }
