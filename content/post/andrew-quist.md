@@ -2,8 +2,6 @@
 title: "Game Development: Best Practices and How I Learned Them the Hard Way"
 date: 2021-03-15T15:37:59-04:00
 draft: false
-aliases:
-    - /event/
 ---
 
 ## Details
