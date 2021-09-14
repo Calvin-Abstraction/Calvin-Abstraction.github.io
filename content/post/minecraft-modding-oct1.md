@@ -9,6 +9,6 @@ aliases:
 ## Details
 We'll be covering the basics of Minecraft modding and providing groundwork for you to get started with your own mods.
 
-WHEN: October 1 at 3:00pm
+WHEN: October 2 at 3:00pm
 
 WHERE: SB 372
