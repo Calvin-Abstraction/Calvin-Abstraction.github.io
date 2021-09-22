@@ -10,5 +10,9 @@ Email us at abstraction@calvin.edu and we'll do our best to get back to you as s
 
 
 ## Current 2021-22 Leadership
-* David Reidsma (President)
-* Nathan Strain (VP)
+* David Reidsma
+* Nathan Strain
+* Jacob Westra
+* Haim Hong
+* Oghenesuvwe Ogedegbe
+* John White
