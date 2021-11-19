@@ -17,7 +17,7 @@ When: 6:00pm to 9:00pm
 
 Unfortunately, due to the Java version available on the lab PCs, we'll be limited to Minecraft 1.16.
 
-If you don't have a Minecraft account, click here: https://drive.google.com/file/d/1fS3zMPC-_n9eknrJ5xALJZOuwXAFkUWt/view?usp=sharing
+If you don't have a Minecraft account, click here: https://drive.google.com/file/d/1AWQXsJs16wkbGeXZbIt9EP2ewnGEPbkx/view?usp=sharing
 
 Unzip that archive, and use a terminal (or command prompt on Windows) to change directories to the unzipped folder.
 
