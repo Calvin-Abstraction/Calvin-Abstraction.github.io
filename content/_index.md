@@ -3,6 +3,10 @@ type = "page"
 +++
 ---
 
+# LAN Party from 6-9pm on Friday, April 8!
+Free food and drinks, and you could win a Steam gift card!
+
+Join our Discord server! https://discord.gg/gcX4qmGG
 
 # Fall 2021 Update:
 
