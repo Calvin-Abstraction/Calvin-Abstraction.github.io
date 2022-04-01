@@ -8,12 +8,7 @@ Free food and drinks, and you could win a Steam gift card!
 
 Join our Discord server! https://discord.gg/gcX4qmGG
 
-# Fall 2021 Update:
 
-### Weekly Meetings!
-We'll be meeting weekly on Thursdays from <strong>10:00</strong> until <b>10:20</b>! 
-
-Come talk about video games, computer science, and other nerd topics in the computer science lounge (the room behind the CS labs).
 <br/><br/>
 ### We're recruiting leadership!
 Are you interested in helping build a strong community of students at Calvin who are passionate about computing and technology?
