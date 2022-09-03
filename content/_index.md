@@ -3,10 +3,10 @@ type = "page"
 +++
 ---
 
-# LAN Party from 6-9pm on Friday, April 8!
-Free food and drinks, and you could win a Steam gift card!
+# LINUX INSTALL SESSION COMING SOON!
+Join us! Experience a new OS. Begin your journey into mastering the command line and Git!
 
-Join our Discord server! https://discord.gg/gcX4qmGG
+Join our Discord server for updates! https://discord.gg/gcX4qmGG
 
 
 <br/><br/>
