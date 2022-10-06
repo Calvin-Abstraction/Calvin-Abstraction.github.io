@@ -10,9 +10,8 @@ Email us at abstraction@calvin.edu and we'll do our best to get back to you as s
 
 
 ## Current 2021-22 Leadership
-* David Reidsma
-* Nathan Strain
-* Jacob Westra
 * Haim Hong
+* Benedicto Elpidius
+* Jacob Westra
+* Andrew Jackson
 * Oghenesuvwe Ogedegbe
-* John White
