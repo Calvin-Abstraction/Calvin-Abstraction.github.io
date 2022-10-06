@@ -3,8 +3,8 @@ type = "page"
 +++
 ---
 
-# LINUX INSTALL SESSION COMING SOON!
-Join us! Experience a new OS. Begin your journey into mastering the command line and Git!
+# RASPBERRY PI TALK COMING SOON!
+Experience the wonders of automating with Raspberry Pis.
 
 Join our Discord server for updates! https://discord.gg/gcX4qmGG
 
