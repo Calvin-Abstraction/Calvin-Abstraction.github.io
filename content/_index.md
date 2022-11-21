@@ -3,7 +3,7 @@ type = "page"
 +++
 ---
 
-# COMPUTER GENERATED AERT COMPETITION BEFORE EXAMS!
+# COMPUTER GENERATED ART COMPETITION BEFORE EXAMS!
 Expand on the lecture from x95, and get a chance to win something fun.
 
 Join our Discord server for updates! https://discord.gg/gcX4qmGG
