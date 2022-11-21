@@ -3,8 +3,8 @@ type = "page"
 +++
 ---
 
-# RASPBERRY PI TALK COMING SOON!
-Experience the wonders of automating with Raspberry Pis.
+# COMPUTER GENERATED AERT COMPETITION BEFORE EXAMS!
+Expand on the lecture from x95, and get a chance to win something fun.
 
 Join our Discord server for updates! https://discord.gg/gcX4qmGG
 
